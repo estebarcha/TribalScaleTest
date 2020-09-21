@@ -2,7 +2,8 @@
 Description: Two automation test cases, this tests are Java and Selenium lenguage based.
 
 ## How to run
-Step #1 run pom.xml file
+Step #1 run pom.xml file 
+
 Step #2 Go to FactorialTestCases and run the main method
 
 # Test #1
